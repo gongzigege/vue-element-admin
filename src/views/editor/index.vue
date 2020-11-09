@@ -1,10 +1,10 @@
 <template>
-  <div>Dashboard</div>
+  <div>Flow</div>
 </template>
 
 <script>
 export default {
-  name: 'Dashboard'
+  name: 'Editor'
 }
 </script>
 
